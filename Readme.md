@@ -1,1 +1,1 @@
-C-NMC Leukemia Challenge
+Leukemia B-ALL Classification Challenge
